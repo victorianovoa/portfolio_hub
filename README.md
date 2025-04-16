@@ -27,7 +27,6 @@ Este portfólio reúne meus projetos acadêmicos, experiências e habilidades co
 ├── index.html # Página principal do portfólio 
 ├── style.css # Estilização do site 
 ├── script.js # Scripts JavaScript 
-├── vic.jpg # Sua foto usada na seção "Sobre" 
 └── README.md # Documentação do projeto
 
 ## 📸 Prévia
