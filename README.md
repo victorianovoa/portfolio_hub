@@ -1,4 +1,4 @@
-# 💻 Portfólio Digital - Victória Nóvoa
+# 💻 Portfólio Digital - Victória Nóvoa 🥀
 
 Oii, aqui está o repositório do meu portfólio pessoal! 
 Este projeto foi desenvolvido com foco em Front-End, utilizando HTML5, CSS3 e JavaScript para tornar a experiência mais interativa e responsiva. ✨
@@ -14,25 +14,11 @@ Este portfólio reúne meus projetos acadêmicos, experiências e habilidades co
 
 ## 🌐 Tecnologias Utilizadas
 
-- **HTML5** 🧱  
-- **CSS3** 🎨  
-- **JavaScript** ⚡  
-- (Possível integração futura com React ou outros frameworks)
+- 📝 **HTML5** 
+- 🎨 **CSS3** 🎨  
+- ⚡ **JavaScript** ⚡  
+- 💭 (Possível integração futura com React ou outros frameworks)
 
----
-
-## 🗂️ Estrutura do Projeto
-
-📁 portfolio_hub/ 
-├── index.html # Página principal do portfólio 
-├── style.css # Estilização do site 
-├── script.js # Scripts JavaScript 
-└── README.md # Documentação do projeto
-
-## 📸 Prévia
-
-Você pode visualizar o portfólio ao vivo aqui:  
-🔗 [Acessar Portfólio](https://victorianovoa.github.io/portfolio/)
 
 ---
 
