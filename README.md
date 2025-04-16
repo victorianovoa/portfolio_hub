@@ -23,13 +23,12 @@ Este portfólio reúne meus projetos acadêmicos, experiências e habilidades co
 
 ## 🗂️ Estrutura do Projeto
 
-📁 portfolio/
+📁 portfolio_hub/ 
 ├── index.html # Página principal do portfólio 
-├── style.css # Arquivo de estilos 
-├── script.js # Arquivo de scripts JavaScript (opcional) 
-├── assets/ # Arquivos de mídia e documentos │ ├── imagens/ # Imagens do portfólio 
-│ └── curriculo_victoria.pdf # Currículo em PDF └── README.md # Documentação do projeto
----
+├── style.css # Estilização do site 
+├── script.js # Scripts JavaScript 
+├── vic.jpg # Sua foto usada na seção "Sobre" 
+└── README.md # Documentação do projeto
 
 ## 📸 Prévia
 
@@ -44,12 +43,12 @@ Você pode visualizar o portfólio ao vivo aqui:
 
 ---
 
-## ✨ Contato & Redes
+## ✨ Contato 
 
 📧 E-mail: [v.victorianovoa@gmail.com](mailto:v.victorianovoa@gmail.com)  
 📍 Localização: Brasília, DF, Brasil  
 🔗 [LinkedIn - Victória Nóvoa](https://www.linkedin.com/in/seulink)  
-🐙 [GitHub - victorianovoa](https://github.com/victorianovoa)
+🐈‍⬛ [GitHub - victorianovoa](https://github.com/victorianovoa)
 
 ---
 
@@ -59,5 +58,3 @@ Você pode visualizar o portfólio ao vivo aqui:
 🔹 [portfolioHUB - Hub de Projetos Acadêmicos](https://github.com/victorianovoa/portfolioHUB)
 
 ---
-
-> “Transformar ideias em código é a minha forma de criar impacto.” ✨
