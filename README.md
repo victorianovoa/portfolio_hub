@@ -15,8 +15,8 @@ Este portfólio reúne meus projetos acadêmicos, experiências e habilidades co
 ## 🌐 Tecnologias Utilizadas
 
 - 📝 **HTML5** 
-- 🎨 **CSS3** 🎨  
-- ⚡ **JavaScript** ⚡  
+- 🎨 **CSS3** 
+- ⚡ **JavaScript** 
 - 💭 (Possível integração futura com React ou outros frameworks)
 
 
