@@ -25,7 +25,7 @@ Este portfólio reúne meus projetos acadêmicos, experiências e habilidades co
 ## 📄 Currículo
 
 📎 [Clique aqui para baixar meu currículo em PDF](#)  
-*(Substituir pelo link real depois da aula)*
+
 
 ---
 
