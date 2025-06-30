@@ -2,7 +2,7 @@
 
 Oii, aqui está o repositório do meu portfólio pessoal!  
 Este projeto foi desenvolvido com foco em **Front-End**, utilizando **HTML5**, **CSS3** e **JavaScript** para tornar a experiência mais interativa e responsiva. ✨
-
+https://victorianovoa.github.io/portfolio_hub/
 ---
 
 ## 👩🏻‍💻 Sobre Mim
